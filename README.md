@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dr. Mary Lebens @marylebensanokatech
+- 👋 Hi, I’m Dr. Mary Lebens @marylebensanokatech   I'm an information technology instructor.
 - 👀 I’m interested in Python, C#, Java, SQL, Swift, JavaScript, Typescript.
 - 🌱 I’m currently learning React.
 - 📫 How to reach me mary.lebens@minneapolis.edu
